@@ -1,6 +1,6 @@
 # Code of Conduct
 
-<img src="header.png">
+![master-of-the-field](https://user-images.githubusercontent.com/14003326/217072817-94bdf81d-7eb3-401f-ade7-f4d00431bec8.png)
 
 In short: Be nice. No harassment, trolling, or spamming.
 
